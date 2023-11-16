@@ -27,3 +27,10 @@ Tool de langchain que consulta los documentos y genera la respuesta
 
 ![image](https://github.com/SantiagoBayona/AREP-Lab-09/assets/64861204/265a4d15-1844-417c-9794-9e7b4fea415c)
 
+## Construido con
+
+- Python
+- OpenAI
+- Pinecone
+- Git
+
